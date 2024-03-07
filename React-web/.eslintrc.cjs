@@ -17,6 +17,6 @@ module.exports = {
       "warn",
       { allowConstantExport: true },
     ],
-    "react/jsx-uses-vars": "0",
+    "react/jsx-uses-vars": 2,
   },
 };
